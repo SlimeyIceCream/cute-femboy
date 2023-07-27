@@ -1,0 +1,7 @@
+{
+  "name": "cute-femboy",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
